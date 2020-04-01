@@ -1,6 +1,6 @@
 # imcrapido
 
-Calculadora de IMC
+Calculadora de IMC com gestão de estado do resultado com MOBX.
 
 ## Getting Started
 
